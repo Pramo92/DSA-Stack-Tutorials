@@ -1,4 +1,4 @@
-# DSA-Stack-tutorials-
+# DSA-Stack-Tutorials
 
 01) Write a program to reverse a user given number using Stack operations.
    
