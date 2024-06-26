@@ -3,26 +3,6 @@
 01) Write a program to reverse a user given number using Stack operations.
    
    Example:12345 → 54321
-   
-02) Write a program that reads a mathematical expression from the user, evaluates it using stack operations, and prints the result.(hint: Enter a mathematical expression using operators +, -, *, and / only)
-   
-Example:
-
-Input: 6+2*3-4/2
-
-Output: 10
-
-03) Write a program that reads a sentence from the user and prints the words containing vowels in alphabetical order using stack operations.
-   
-Example: 
-
-Input: The sky is blue
-
-Output: blue
-
- is
- 
- the
  
 04) Given a sentence contains multiple words and write a program to reverse the entire sentence word by word using Stack operations and display the top element of the stack.
 
