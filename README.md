@@ -36,8 +36,9 @@ Ex: palindrome – Mom, Madam
 
 06) Write entire java program to convert a given integer to octal and hexadecimal.
    
-07)Write a program to validate the order of opening and closing parentheses in a mathematical expression using stack operations. The program should determine whether the parentheses are balanced or not.
-08)
+07) Write a program to validate the order of opening and closing parentheses in a mathematical expression using stack operations. The program should determine whether the parentheses are balanced or not.
+8) 
+  
 a) Write a program to keep track of the highest value included in a given stack. Theelement with the highest value may be at the top of the stack, but as soon as another element is added, the maximum value is determined by the remaining elements.
 
 Suppose the elements are pushed on to the stack in the order {1, 4, 16, 7, 45}
